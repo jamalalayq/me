@@ -1,37 +1,131 @@
-## Jamal Abdalnaser Alayq
+# [Jamal Alayq](https://www.facebook.com/G.A.al3yk)
 
-You can use the [editor on GitHub](https://github.com/jamalalayq/jamal.alayq/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Personal information:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [jamal.alayq@gmail.com](mailto:jamal.alayq@gmail.com)
+- [+201222316420](201222316420), [+201227081828](201227081828)
+- Tokh, Qalyubia
+- Married
+- Exemption from military service
+- Date of birth: 17/06/1990
+- [LinkedIn](https://www.linkedin.com/in/gamalal3yk)
+- [GitHub](https://github.com/jamalalayq)
+- [Twitter](https://twitter.com/jamalelayeq)
 
-### Markdown
+## Brief:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have many years of experience in developing mobile applications. During this time I am reading more programming languages. I uploaded a lot of apps on the app store. I improve my skills by reading articles, watching videos and WWDC etc. I have experience in mobile apps development from 2013 but I have started iOS development since 2014. I develop my skills on the server side.
 
-```markdown
-Syntax highlighted code block
+## Education:
 
-# Header 1
-## Header 2
-### Header 3
+High Institute For Computers And Management Information Systems
 
-- Bulleted
-- List
+    Graduate 2011
 
-1. Numbered
-2. List
+## Experience:
 
-**Bold** and _Italic_ and `Code` text
+##### iOS Developer And iOS Technical Support
 
-[Link](url) and ![Image](src)
-```
+- At Al Tawasol Al Khaliji: May 2019. At present
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##### iOS Developer And iOS Technical Advisor
 
-### Jekyll Themes
+- At Over Coffee Solutions: Sep 2018 – Apr 2019. 8 mos
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jamalalayq/jamal.alayq/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##### iOS Developer
 
-### Support or Contact
+- At Tech World: Aug 2017 – Sep 2018 . 1 yr 2 mos
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### iOS Developer
+
+- At Atiaf apps: Jan 2017 – Jul 2017. 7 mos
+
+##### iOS Developer
+
+- At Freelance: Aug 2014 – Jan 2017 . 1 yr 6 mos
+
+##### Windows Phone Developer
+
+- At Freelance: 1 yr
+
+## Skills:
+
+- iOS Development
+- Swift
+- iOS Kits (UIKit, SwiftUI, CoreData, CoreLocation, etc..)
+- Objective-C: in order to update old projects only
+- Git
+- Object Oriented Programming (OOP)
+- Protocol Oriented Programming(POP)
+- Model View ViewModel (MVVM)
+- MVC (Model View Controller)
+- Unit Testing
+- UI Unit testing
+- TDD (Test Driven Development)
+- Automation
+- Shell Scripting(SH, bash)
+- SOLID Principles
+- Golang
+- I know about (Javascript, Python, Ruby)
+- Learning Server Side handling by (Vapor, Go)
+- Functional Programming
+
+## Tools:
+
+- Xcode
+- Iterm2
+- GitKraken
+- Zsh
+- Homebrew
+- Slack
+- Jira
+- Postman
+- Visual Studio Code
+- Opera
+- Bitbucket
+- Github
+- Brave
+- Hyper
+- Rested
+- Discord
+- Gapplin
+- Zoom.us
+- Sourcetree
+- Fastlane
+- And more
+
+## Projects:
+
+- The sample fiqh
+- Test your eyes
+- Photo gallery
+- Menyo
+- Lucky wheel
+- [Dalil app - تطبيق الدليل](https://itunes.apple.com/us/app/id1359166689?ls=1&mt=8)
+- [Beqala Client](http://itunes.apple.com/us/app/id1235062759?mt=8)
+- Beqala Store
+- Fanni
+- Petro app
+- Aramwest
+- [Tink](https://itunes.apple.com/us/app/id1439013266)
+- Badawar: i built part of it
+- [Dalilk](https://itunes.apple.com/us/app/id1359166689)
+- [Lutfi Drivers](https://apps.apple.com/us/app/lutfi-captain/id1341641442)
+- [Lutfi Passengers](https://apps.apple.com/us/app/id1341643273)
+- Dawar
+- Smart Bus : (ongoing)
+- Parents - Linked to Smart Bus app - : (ongoing)
+- جائزة روضة سدير
+- [جزر فرسان السياحي](http://itunes.apple.com/us/app/id1212785213?mt=8)
+- دليل بادر
+- معرض الكتاب بالرياض
+- [اضافات](https://itunes.apple.com/us/app/%D8%A7%D8%B6%D8%A7%D9%81%D8%A7%D8%AA/id1192966536?mt=8)
+
+###### Note:
+
+<span style="color:red; font-size:15px">I developed many apps but clients did not publish it, some apps were deleted from the app store.</span>
+
+## Languages:
+
+- Arabic: <span style="font-size:14px">Native</span>
+- English: <span style="font-size:14px">Good</span>
