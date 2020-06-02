@@ -69,6 +69,7 @@ High Institute For Computers And Management Information Systems
 - I know about (Javascript, Python, Ruby)
 - Learning Server Side handling by (Vapor, Go)
 - Functional Programming
+- RxSwift
 
 ## Tools:
 
