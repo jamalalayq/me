@@ -70,6 +70,7 @@ High Institute For Computers And Management Information Systems
 - Learning Server Side handling by (Vapor, Go)
 - Functional Programming
 - RxSwift
+- Swiftlint
 
 ## Tools:
 
