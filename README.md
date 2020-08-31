@@ -26,7 +26,7 @@ High Institute For Computers And Management Information Systems
 
 ##### iOS Developer And iOS Technical Support
 
-- At Al Tawasol Al Khaliji: May 2019. At present
+- At Al Tawasol Al Khaliji: May 2019 - Aug 2020. 1 yr 4 mos
 
 ##### iOS Developer And iOS Technical Advisor
 
