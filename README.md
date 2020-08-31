@@ -112,16 +112,17 @@ High Institute For Computers And Management Information Systems
 - [Tink](https://itunes.apple.com/us/app/id1439013266)
 - Badawar: i built part of it
 - [Dalilk](https://itunes.apple.com/us/app/id1359166689)
-- [Lutfi Drivers](https://apps.apple.com/us/app/lutfi-captain/id1341641442)
-- [Lutfi Passengers](https://apps.apple.com/us/app/id1341643273)
+- [Too Captains](https://apps.apple.com/us/app/id1341641442)
+- [Too Passengers](https://apps.apple.com/us/app/id1341643273)
 - Dawar
-- Smart Bus : (ongoing)
-- Parents - Linked to Smart Bus app - : (ongoing)
+- Smart Bus
+- Parents - Linked to Smart Bus app -
 - جائزة روضة سدير
 - [جزر فرسان السياحي](http://itunes.apple.com/us/app/id1212785213?mt=8)
 - دليل بادر
 - معرض الكتاب بالرياض
-- [اضافات](https://itunes.apple.com/us/app/%D8%A7%D8%B6%D8%A7%D9%81%D8%A7%D8%AA/id1192966536?mt=8)
+- [اضافات](https://itunes.apple.com/us/app/id1192966536?mt=8)
+- [Too Locations](https://apps.apple.com/us/app/id1508881888)
 
 ###### Note:
 
