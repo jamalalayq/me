@@ -3,7 +3,7 @@
 ## Personal information:
 
 - [jamal.alayq@gmail.com](mailto:jamal.alayq@gmail.com)
-- [+201222316420](201222316420), [+201227081828](201227081828)
+- [+201227081828](201227081828)
 - Tokh, Qalyubia
 - Married
 - Exemption from military service
