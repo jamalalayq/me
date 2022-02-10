@@ -36,11 +36,11 @@ i working with iOS varieties technologies(UIKit, User Notifications, Core Locati
 
 ##### Senior iOS Developer
 - At [Mongez](https://www.linkedin.com/company/mongez-app/mycompany/) . Part-time: Feb 2022 – Present 
-- At [Mongez](https://www.linkedin.com/company/mongez-app/mycompany/) . Full-time : November 2020 – Feb 2022. 1 yr 4 mos
+- At [Mongez](https://www.linkedin.com/company/mongez-app/mycompany/) . Full-time : Oct 2020 – Feb 2022. 1 yr 5 mos
 
 ##### Senior iOS Developer & iOS Technical Lead
 
-- At Al Tawasol Al Khaliji . Full-time: May 2019 - Oct 2020. 1 yr 6 mos
+- At Al Tawasol Al Khaliji . Full-time: May 2019 - Nov 2020. 1 yr 5 mos
 
 ##### Senior iOS Developer & iOS Technical Lead
 
