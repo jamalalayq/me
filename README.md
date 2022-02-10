@@ -40,7 +40,7 @@ i working with iOS varieties technologies(UIKit, User Notifications, Core Locati
 
 ##### Senior iOS Developer & iOS Technical Lead
 
-- At Al Tawasol Al Khaliji . Full-time: May 2019 - Nov 2020. 1 yr 5 mos
+- At Al Tawasol Al Khaliji . Full-time: May 2019 - Sep 2020. 1 yr 5 mos
 
 ##### Senior iOS Developer & iOS Technical Lead
 
