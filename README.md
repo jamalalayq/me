@@ -1,4 +1,4 @@
-# [Jamal Alayq](https://www.facebook.com/G.A.al3yk)
+# [Jamal Alaayq](https://www.facebook.com/G.A.al3yk)
 
 ## Personal information:
 
@@ -16,6 +16,11 @@
 
 I have many years of experience in developing mobile applications. During this time I am reading more programming languages. I uploaded a lot of apps on the app store. I improve my skills by reading articles, watching videos and WWDC etc. I have experience in mobile apps development from 2013 but I have started iOS development since 2014. I develop my skills on the server side.
 
+## Cover Letter: 
+
+I am Jamal Alaayq, i am graduated since 2011 form high institute for computers and management information systems from information system department, i started to learn to develop mobile apps since later 2012 i started with Windows Phone and C# programming language after more a year i moved to Swift and iOS development since 2014 and begin to build first app since later 2014, i worked as a freelancer iOS developer for over 2 years to develop my skills and know more about technologies then i moved to companies, i started with Atiaf apps software house i built a lot of apps with it then i moved to Tech-World is a product base company i built the Dalil app (like true caller app), then i moved to OCS is a software house company, then moved to Altawasol co to built GIS technologies i created some of apps related to Maps and working deeply with Core Locations, then i moved to Mongez to build a delivery app.
+i working with iOS varieties technologies(UIKit, User Notifications, Core Location, Maps, Animations, Most of Foundation frameworks) beside some of technologies as (RxSwift, Alamofire, and more), i used MVVM, MVC and MVI as an architecture design patterns, As for the most design pattern i use them (Delegation, Observer, Singlton, Adapter, Builder, Factory method) beside take in consideration SOLID Principles. I working with CI/CD tools with Git tool to save my work and publish on App Store.
+
 ## Education:
 
 High Institute For Computers And Management Information Systems
@@ -24,25 +29,29 @@ High Institute For Computers And Management Information Systems
 
 ## Experience:
 
-##### iOS Developer And iOS Technical Support
+##### Senior iOS Developer
+- At [Mongez](https://www.linkedin.com/company/mongez-app/mycompany/) . Part-time: Feb 2022 – Present 
+- At [Mongez](https://www.linkedin.com/company/mongez-app/mycompany/) . Full-time : November 2020 – Feb 2022. 1 yr 4 mos
 
-- At Al Tawasol Al Khaliji: May 2019 - Aug 2020. 1 yr 4 mos
+##### Senior iOS Developer & iOS Technical Lead
 
-##### iOS Developer And iOS Technical Advisor
+- At Al Tawasol Al Khaliji . Full-time: May 2019 - Oct 2020. 1 yr 6 mos
 
-- At Over Coffee Solutions: Sep 2018 – Apr 2019. 8 mos
+##### Senior iOS Developer & iOS Technical Lead
 
-##### iOS Developer
-
-- At Tech World: Aug 2017 – Sep 2018 . 1 yr 2 mos
-
-##### iOS Developer
-
-- At Atiaf apps: Jan 2017 – Jul 2017. 7 mos
+- At [Over Coffee Solutions](https://www.linkedin.com/company/over-coffee-solutions/) . Full-time: Sep 2018 – Apr 2019. 8 mos
 
 ##### iOS Developer
 
-- At Freelance: Aug 2014 – Jan 2017 . 1 yr 6 mos
+- At [Tech World](https://www.linkedin.com/company/tech-world/) . Full-time: Aug 2017 – Sep 2018 . 1 yr 2 mos
+
+##### iOS Developer
+
+- At [Atiaf apps](https://www.linkedin.com/company/atiafapps/) . Full-time: Jan 2017 – Jul 2017. 7 mos
+
+##### iOS Developer
+
+- At Freelance: Aug 2014 – Jan 2017 . 2 yr 6 mos
 
 ##### Windows Phone Developer
 
@@ -51,50 +60,44 @@ High Institute For Computers And Management Information Systems
 ## Skills:
 
 - iOS Development
-- Swift
-- iOS Kits (UIKit, SwiftUI, CoreData, CoreLocation, etc..)
-- Objective-C: in order to update old projects only
-- Git
-- Object Oriented Programming (OOP)
+- [Swift](https://swift.org/)
+- [iOS Kits](https://en.wikipedia.org/wiki/IOS) (UIKit, SwiftUI, CoreData, CoreLocation, Combine, etc..)
+- [Objective-C](https://en.wikipedia.org/wiki/Objective-C): in order to update old projects only
+- [Git](https://git-scm.com/)
+- Object Oriented Programming(OOP)
 - Protocol Oriented Programming(POP)
-- Model View ViewModel (MVVM)
-- MVC (Model View Controller)
+- Model View ViewModel(MVVM)
+- Model View Controller(MVC)
 - Unit Testing
-- UI Unit testing
-- TDD (Test Driven Development)
+- RSwift
+- Kanban
+- Code Review
+- Model View Intent(MVI)
+- CocoaPods
+- UI Unit Testing
+- Xcode
+- Bitbucket
+- Test Driven Development(TDD)
 - Automation
-- Shell Scripting(SH, bash)
-- SOLID Principles
-- Golang
+- Shell Scripting
+- SOLID Principles 
+- [Golang](https://golang.org/)
 - I know about (Javascript, Python, Ruby)
 - Learning Server Side handling by (Vapor, Go)
 - Functional Programming
 - RxSwift
 - Swiftlint
-
-## Tools:
-
-- Xcode
-- Iterm2
-- GitKraken
-- Zsh
-- Homebrew
-- Slack
+- Github Actions
+- SwiftGen
+- C#
+- GitFlow
+- Refactoring
+- Swift Package Manager(SPM)
 - Jira
-- Postman
-- Visual Studio Code
-- Opera
-- Bitbucket
-- Github
-- Brave
-- Hyper
-- Rested
-- Discord
-- Gapplin
-- Zoom.us
-- Sourcetree
 - Fastlane
-- And more
+- Github
+- JSON
+- YAML
 
 ## Projects:
 
@@ -123,6 +126,7 @@ High Institute For Computers And Management Information Systems
 - معرض الكتاب بالرياض
 - [اضافات](https://itunes.apple.com/us/app/id1192966536?mt=8)
 - [Too Locations](https://apps.apple.com/us/app/id1508881888)
+- [Mongez](https://apps.apple.com/eg/app/mongez/id1453706751)(OnGoing)
 
 ###### Note:
 
