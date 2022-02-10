@@ -23,9 +23,14 @@ i working with iOS varieties technologies(UIKit, User Notifications, Core Locati
 
 ## Education:
 
-High Institute For Computers And Management Information Systems
+- High Institute For Computers And Management Information Systems(Graduate 2011)
+- Windows phone development(self learning)
+- iOS development(self learning)
 
-    Graduate 2011
+## Licenses & certifications: 
+- Bachelor of Management Information Systems
+- [GitHub Actions](https://codedamn.com/certificate/verify/df4dd022383868cb58412ef31d096b0037f1acc8)
+
 
 ## Experience:
 
