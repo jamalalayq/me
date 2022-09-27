@@ -14,12 +14,12 @@
 
 ## Brief:
 
-I have many years of experience in developing mobile applications. During this time I am reading more programming languages. I uploaded a lot of apps on the app store. I improve my skills by reading articles, watching videos and WWDC etc. I have experience in mobile apps development from 2013 but I have started iOS development since 2014. I develop my skills on the server side.
+I have many years of experience in developing mobile applications. During this time I am reading more programming languages technologies. I uploaded a lot of apps to the App Store. I improve my skills by reading articles, watching videos and WWDC, etc. I have experience in mobile app development since late 2012 but I started iOS development in 2014. I develop my skills on the server side.
 
 ## Cover Letter: 
 
-I am Jamal Alaayq, i am graduated since 2011 form high institute for computers and management information systems from information system department, i started to learn to develop mobile apps since later 2012 i started with Windows Phone and C# programming language after more a year i moved to Swift and iOS development since 2014 and begin to build first app since later 2014, i worked as a freelancer iOS developer for over 2 years to develop my skills and know more about technologies then i moved to companies, i started with Atiaf apps software house i built a lot of apps with it then i moved to Tech-World is a product base company i built the Dalil app (like true caller app), then i moved to OCS is a software house company, then moved to Altawasol co to built GIS technologies i created some of apps related to Maps and working deeply with Core Locations, then i moved to Mongez to build a delivery app.
-i working with iOS varieties technologies(UIKit, User Notifications, Core Location, Maps, Animations, Most of Foundation frameworks) beside some of technologies as (RxSwift, Alamofire, and more), i used MVVM, MVC and MVI as an architecture design patterns, As for the most design pattern i use them (Delegation, Observer, Singlton, Adapter, Builder, Factory method) beside take in consideration SOLID Principles. I working with CI/CD tools with Git tool to save my work and publish on App Store.
+I am Jamal Alaayq, I graduated in 2011 from the high institute for computers and management information systems in the information system department, i started to learn to develop mobile apps since later 2012 i started with Windows Phone and C# programming language after more a year i moved to Swift and iOS development since 2014 and begin to build first app since later 2014, i worked as a freelancer iOS developer for over 2 years to develop my skills and know more about technologies then i moved to companies, i started with Atiaf apps software house i built a lot of apps with it then i moved to Tech-World is a product base company i built the Dalil app (like true caller app), then i moved to OCS is a software house company, then moved to Altawasol co to built GIS technologies i created some of apps related to Maps and working deeply with Core Locations, then i moved to Mongez to build a delivery app.
+i working with iOS varieties technologies(UIKit, SwiftUI, User Notifications, Core Location, Maps, Animations, Most of Foundation frameworks) beside some of technologies as (RxSwift, Alamofire, and more), i used MVVM, MVC and MVI as an architecture design patterns, As for the most design pattern i use them (Delegation, Observer, Singlton, Adapter, Builder, Factory method) beside take in consideration SOLID Principles. I working with CI/CD tools with Git tool to save my work and publish on App Store.
 
 ## Education:
 
@@ -27,12 +27,15 @@ i working with iOS varieties technologies(UIKit, User Notifications, Core Locati
 - Windows phone development(self learning)
 - iOS development(self learning)
 
-## Licenses & certifications: 
+## Licenses & Certifications: 
 - Bachelor of Management Information Systems
 - [GitHub Actions](https://codedamn.com/certificate/verify/df4dd022383868cb58412ef31d096b0037f1acc8)
 
 
 ## Experience:
+
+##### Senior iOS Developer
+- At [Nagwa Limited](https://www.nagwa.com/en/about/) . Full-time: Feb 2022 – Present 
 
 ##### Senior iOS Developer
 - At [Mongez](https://www.linkedin.com/company/mongez-app/mycompany/) . Part-time: Feb 2022 – Present 
@@ -103,6 +106,7 @@ i working with iOS varieties technologies(UIKit, User Notifications, Core Locati
 - Github
 - JSON
 - YAML
+- Azure
 
 ## Projects:
 
@@ -131,7 +135,9 @@ i working with iOS varieties technologies(UIKit, User Notifications, Core Locati
 - معرض الكتاب بالرياض
 - [اضافات](https://itunes.apple.com/us/app/id1192966536?mt=8)
 - [Too Locations](https://apps.apple.com/us/app/id1508881888)
-- [Mongez](https://apps.apple.com/eg/app/mongez/id1453706751)(OnGoing)
+- [Mongez](https://apps.apple.com/eg/app/mongez/id1453706751)
+- [Nagwa Readers](https://apps.apple.com/eg/app/id1580391742)
+- [Nagwa L2](https://apps.apple.com/eg/app/id1641869769)
 
 ###### Note:
 
