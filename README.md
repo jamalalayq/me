@@ -5,8 +5,6 @@
 - [jamal.alayq@gmail.com](mailto:jamal.alayq@gmail.com)
 - [+201227081828](201227081828)
 - Tokh, Qalyubia
-- Married
-- Exemption from military service
 - Date of birth: 17/06/1990
 - [LinkedIn](https://www.linkedin.com/in/gamalal3yk)
 - [GitHub](https://github.com/jamalalayq)
@@ -138,6 +136,10 @@ i working with iOS varieties technologies(UIKit, SwiftUI, User Notifications, Co
 - [Mongez](https://apps.apple.com/eg/app/mongez/id1453706751)
 - [Nagwa Readers](https://apps.apple.com/eg/app/id1580391742)
 - [Nagwa L2](https://apps.apple.com/eg/app/id1641869769)
+- [Connect For Students](https://apps.apple.com/eg/app/id1517491586)
+- [Connect For Educators](https://apps.apple.com/eg/app/id1517491377)
+- Nagwa Sessions
+- Nagwa Classes(Ongoing)
 
 ###### Note:
 
