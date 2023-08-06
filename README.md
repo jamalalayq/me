@@ -16,8 +16,8 @@ I have many years of experience in developing mobile applications. During this t
 
 ## Cover Letter: 
 
-I am Jamal Alaayq, I graduated in 2011 from the high institute for computers and management information systems in the information system department, i started to learn to develop mobile apps since later 2012 i started with Windows Phone and C# programming language after more a year i moved to Swift and iOS development since 2014 and begin to build first app since later 2014, i worked as a freelancer iOS developer for over 2 years to develop my skills and know more about technologies then i moved to companies, i started with Atiaf apps software house i built a lot of apps with it then i moved to Tech-World is a product base company i built the Dalil app (like true caller app), then i moved to OCS is a software house company, then moved to Altawasol co to built GIS technologies i created some of apps related to Maps and working deeply with Core Locations, then i moved to Mongez to build a delivery app.
-i working with iOS varieties technologies(UIKit, SwiftUI, User Notifications, Core Location, Maps, Animations, Most of Foundation frameworks) beside some of technologies as (RxSwift, Alamofire, and more), i used MVVM, MVC and MVI as an architecture design patterns, As for the most design pattern i use them (Delegation, Observer, Singlton, Adapter, Builder, Factory method) beside take in consideration SOLID Principles. I working with CI/CD tools with Git tool to save my work and publish on App Store.
+I am Jamal Alaayq, I graduated in 2011 from the high institute for Computers and management information systems in the information system department, I started to learn to develop mobile apps since later 2012 I started with Windows Phone and C# programming language after more than a year I moved to Swift and iOS development since 2014 and begin to build first app since later 2014, I worked as a freelancer iOS developer for over 2 years to develop my skills and know more about technologies then I moved to companies, I started with Atiaf apps software house I built a lot of apps with it then I moved to Tech-World is a product base company I built the Dalil app (like true caller app), then I moved to OCS is a software house company, then moved to Altawasol co to build GIS technologies I created some of apps related to Maps and working deeply with Core Locations, then I moved to Mongez to build a delivery app.
+I working with iOS varieties technologies(UIKit, SwiftUI, User Notifications, Core Location, Maps, Animations, and Most of Foundation frameworks) beside some of technologies as (RxSwift, Alamofire, and more), I used MVVM, MVC, and MVI as an architecture design patterns, As for the most design pattern I use them (Delegation, Observer, Singleton, Adapter, Builder, Factory method) beside take in consideration SOLID Principles. I working with CI/CD tools with Git tool to save my work and publish on App Store.
 
 ## Education:
 
@@ -32,12 +32,14 @@ i working with iOS varieties technologies(UIKit, SwiftUI, User Notifications, Co
 
 ## Experience:
 
-##### Senior iOS Developer
-- At [Nagwa Limited](https://www.nagwa.com/en/about/) . Full-time: Feb 2022 – Present 
+##### Senior Mobile Developer(iOS)
+- At [Beyond Menu](https://www.linkedin.com/company/beyondmenu-com/) . Full-time: Jun 2023. Present
 
-##### Senior iOS Developer
-- At [Mongez](https://www.linkedin.com/company/mongez-app/mycompany/) . Part-time: Feb 2022 – Present 
-- At [Mongez](https://www.linkedin.com/company/mongez-app/mycompany/) . Full-time : Oct 2020 – Feb 2022. 1 yr 5 mos
+##### Senior Mobile Developer(iOS)
+- At [Nagwa Limited](https://www.nagwa.com/en/about/) . Full-time: Feb 2022 – Jun 2023. 1 yr 5 mos
+
+##### Senior iOS Developer 
+- At [Mongez](https://www.linkedin.com/company/mongez-app/mycompany/) . Full-time: Oct 2020 – Feb 2022. 1 yr 5 mos
 
 ##### Senior iOS Developer & iOS Technical Lead
 
@@ -89,11 +91,11 @@ i working with iOS varieties technologies(UIKit, SwiftUI, User Notifications, Co
 - SOLID Principles 
 - [Golang](https://golang.org/)
 - I know about (Javascript, Python, Ruby)
-- Learning Server Side handling by (Vapor, Go)
+- Learning Server-Side handling by (Vapor, Go)
 - Functional Programming
 - RxSwift
 - Swiftlint
-- Github Actions
+- GitHub Actions
 - SwiftGen
 - C#
 - GitFlow
@@ -105,12 +107,14 @@ i working with iOS varieties technologies(UIKit, SwiftUI, User Notifications, Co
 - JSON
 - YAML
 - Azure
+- Flutter
+- Dart
 
 ## Projects:
 
 - The sample fiqh
 - Test your eyes
-- Photo gallery
+- Photo Gallery
 - Menyo
 - Lucky wheel
 - [Dalil app - تطبيق الدليل](https://itunes.apple.com/us/app/id1359166689?ls=1&mt=8)
@@ -138,12 +142,16 @@ i working with iOS varieties technologies(UIKit, SwiftUI, User Notifications, Co
 - [Nagwa L2](https://apps.apple.com/eg/app/id1641869769)
 - [Connect For Students](https://apps.apple.com/eg/app/id1517491586)
 - [Connect For Educators](https://apps.apple.com/eg/app/id1517491377)
-- Nagwa Sessions
-- Nagwa Classes(Ongoing)
+- [Nagwa Classes](https://apps.apple.com/eg/app/id6446116250)
+- Nagwa Sessions(Unlisted App)
+- 4Jawaly(ongoing)
+- [Beyond Menu Food Delivery](https://apps.apple.com/us/app/beyond-menu-food-delivery/id760852900)
+- [Beyond Menu Restaurant Owner](https://apps.apple.com/us/app/beyond-menu-restaurant-owner/id1008234762)
+
 
 ###### Note:
 
-<span style="color:red; font-size:15px">I developed many apps but clients did not publish it, some apps were deleted from the app store.</span>
+<span style="color:red; font-size:15px">I developed many apps but clients did not publish them, some apps were deleted from the app store.</span>
 
 ## Languages:
 
