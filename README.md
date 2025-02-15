@@ -16,7 +16,6 @@ With over a decade of experience in mobile application development, I have consi
 Although I have been involved in mobile app development since late 2012, I dedicated myself to mobile apps development in 2014. My expertise lies in server-side development, and I am committed to continuously honing my skills through these endeavors.
 
 # Cover Letter:
-Hello,
 
 My name is Jamal Alaayq, and I graduated in 2011 from the High Institute for Computers and Management Information Systems in the Information Systems department.
 
@@ -98,12 +97,10 @@ To enhance my productivity, I employ various tools, including Git, GitHub, Fastl
 - Test Driven Development(TDD)
 - Automation
 - Shell Scripting
-- SOLID Principles 
-- [Golang](https://golang.org/)
+- SOLID Principles, DRY, and KISS
 - I know about (Javascript, Python, Ruby)
 - Learning Server-Side handling by (Vapor, Go)
 - Functional Programming
-- SwiftGen
 - C#
 - GitFlow
 - Refactoring
