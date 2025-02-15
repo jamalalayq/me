@@ -4,7 +4,6 @@
 
 - [jamal.alayq@gmail.com](mailto:jamal.alayq@gmail.com)
 - [+201227081828](201227081828)
-- Tokh, Qalyubia
 - Date of birth: 17/06/1990
 - [LinkedIn](https://www.linkedin.com/in/gamalal3yk)
 - [GitHub](https://github.com/jamalalayq)
