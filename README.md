@@ -12,12 +12,23 @@
 
 ## Brief:
 
-I have many years of experience in developing mobile applications. During this time I am reading more programming languages technologies. I uploaded a lot of apps to the App Store. I improve my skills by reading articles, watching videos and WWDC, etc. I have experience in mobile app development since late 2012 but I started iOS development in 2014. I develop my skills on the server side.
+With over a decade of experience in mobile application development, I have consistently sought to expand my knowledge by delving into various programming languages and technologies. I have successfully uploaded numerous applications to the App Store and have actively engaged in self-improvement through reading articles, watching videos, and attending WWDC conferences.
+Although I have been involved in mobile app development since late 2012, I dedicated myself to mobile apps development in 2014. My expertise lies in server-side development, and I am committed to continuously honing my skills through these endeavors.
 
-## Cover Letter: 
+# Cover Letter:
+Hello,
 
-I am Jamal Alaayq, I graduated in 2011 from the high institute for Computers and management information systems in the information system department, I started to learn to develop mobile apps since later 2012 I started with Windows Phone and C# programming language after more than a year I moved to Swift and iOS development since 2014 and begin to build first app since later 2014, I worked as a freelancer iOS developer for over 2 years to develop my skills and know more about technologies then I moved to companies, I started with Atiaf apps software house I built a lot of apps with it then I moved to Tech-World is a product base company I built the Dalil app (like true caller app), then I moved to OCS is a software house company, then moved to Altawasol co to build GIS technologies I created some of apps related to Maps and working deeply with Core Locations, then I moved to Mongez to build a delivery app.
-I working with iOS varieties technologies(UIKit, SwiftUI, User Notifications, Core Location, Maps, Animations, and Most of Foundation frameworks) beside some of technologies as (RxSwift, Alamofire, and more), I used MVVM, MVC, and MVI as an architecture design patterns, As for the most design pattern I use them (Delegation, Observer, Singleton, Adapter, Builder, Factory method) beside take in consideration SOLID Principles. I working with CI/CD tools with Git tool to save my work and publish on App Store.
+My name is Jamal Alaayq, and I graduated in 2011 from the High Institute for Computers and Management Information Systems in the Information Systems department.
+
+Since 2012, I have been developing mobile applications, initially using Windows Phone and C# programming language. After over a year, I transitioned to Swift and iOS development. In 2014, I commenced building my first mobile application.
+
+Over the subsequent two years, I engaged in freelance iOS development to enhance my skills and gain experience in diverse technologies. Subsequently, I joined companies, where I contributed to the development of several applications.
+
+My career commenced with Atiaf Apps Software House, where I developed a range of applications. I subsequently transitioned to Tech-World, a product-based company, where I developed the Dalil app, a mobile application comparable to TrueCaller. I subsequently joined OCS, a software house company, and Altawasol Co., where I focused on developing GIS technologies and creating applications related to maps, particularly working with Core Locations. Finally, I joined Mongez to develop a delivery application.
+
+My expertise encompasses iOS development technologies, including UIKit, SwiftUI, User Notifications, Core Location, Maps, Animations, and various Foundation frameworks. Additionally, I am proficient in RxSwift, Alamofire, and other technologies. I have experience with architectural design patterns such as MVVM, MVC, and MVI. Furthermore, I adhere to the SOLID Principles and utilize CI/CD tools, particularly Git, to manage my projects and publish applications on the App Store.
+Two years ago, I commenced developing Flutter applications utilizing the Dart programming language. Since 2023, I have been actively involved in the US marketplace, contributing to the creation and publication of numerous applications. During this period, I have acquired a diverse skill set.
+To enhance my productivity, I employ various tools, including Git, GitHub, Fastlane, and numerous CI/CD tools. I adhere to software design techniques such as DRY, KISS, and SOLID to construct maintainable and readable codebases. I am an avid learner and continuously strive to improve my skills. In the end, I am actively working on enhancing my English communication abilities.
 
 ## Education:
 
@@ -65,7 +76,7 @@ I working with iOS varieties technologies(UIKit, SwiftUI, User Notifications, Co
 
 - At Freelance: 1 yr
 
-## Skills:
+## Skills & Tools:
 
 - iOS Development
 - [Swift](https://swift.org/)
@@ -78,7 +89,6 @@ I working with iOS varieties technologies(UIKit, SwiftUI, User Notifications, Co
 - Model View Controller(MVC)
 - Unit Testing
 - RSwift
-- Kanban
 - Code Review
 - Model View Intent(MVI)
 - CocoaPods
@@ -93,22 +103,17 @@ I working with iOS varieties technologies(UIKit, SwiftUI, User Notifications, Co
 - I know about (Javascript, Python, Ruby)
 - Learning Server-Side handling by (Vapor, Go)
 - Functional Programming
-- RxSwift
-- Swiftlint
-- GitHub Actions
 - SwiftGen
 - C#
 - GitFlow
 - Refactoring
 - Swift Package Manager(SPM)
 - Jira
-- Fastlane
 - Github
-- JSON
-- YAML
 - Azure
 - Flutter
 - Dart
+- CI/CD tools
 
 ## Projects:
 
@@ -148,10 +153,6 @@ I working with iOS varieties technologies(UIKit, SwiftUI, User Notifications, Co
 - [Beyond Menu Food Delivery](https://apps.apple.com/us/app/beyond-menu-food-delivery/id760852900)
 - [Beyond Menu Restaurant Owner](https://apps.apple.com/us/app/beyond-menu-restaurant-owner/id1008234762)
 
-
-###### Note:
-
-<span style="color:red; font-size:15px">I developed many apps but clients did not publish them, some apps were deleted from the app store.</span>
 
 ## Languages:
 
