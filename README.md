@@ -1,4 +1,4 @@
-# [Jamal Alaayq)[#]
+# Jamal Alaayq
 
 ## Personal information:
 
